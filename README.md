@@ -5,6 +5,7 @@ This DNA read is a simplest way to check device unique ID.
 
 | Vitis Example | Vivado Blocks |
 | - | - |
-| ![image](https://github.com/briansune/Xilinx-DNA-Verilog/assets/29487339/f76a31d4-77ec-4e1c-82d9-a112ab37fe3b) | ![image](https://github.com/briansune/Xilinx-DNA-Verilog/assets/29487339/f0700d27-80e8-4849-8a5a-ec3631bb1f05) |
+| ![1a](https://github.com/user-attachments/assets/16261e38-05e7-42af-9f23-be34ce3a5834) | ![2a](https://github.com/user-attachments/assets/48745de9-c751-4ba0-b347-ab13327de0e4)
+ |
 
 
